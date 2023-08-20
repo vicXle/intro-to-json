@@ -1,0 +1,682 @@
+{
+    "results": [
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Leroy",
+            "last": "Russell"
+        },
+        "location": {
+            "street": {
+            "number": 9516,
+            "name": "Oak Lawn Ave"
+            },
+            "city": "Cedar Hill",
+            "state": "California",
+            "country": "United States",
+            "postcode": 51566,
+            "coordinates": {
+            "latitude": "59.7669",
+            "longitude": "-131.1157"
+            },
+            "timezone": {
+            "offset": "-5:00",
+            "description": "Eastern Time (US & Canada), Bogota, Lima"
+            }
+        },
+        "email": "leroy.russell@example.com",
+        "login": {
+            "uuid": "9c3f9217-072b-46de-94c5-6894fc215a78",
+            "username": "smallgoose452",
+            "password": "daniel",
+            "salt": "dClSz25u",
+            "md5": "fbc8b3aacd1289f74ec6ab080109d8e7",
+            "sha1": "1b2c3c6dc709ff64bfe43cda914423cf9684be98",
+            "sha256": "2dae7898cfb277cfe7031c8260326be8a8d246d3b6bd3515d1efdf9b04a818e6"
+        },
+        "dob": {
+            "date": "1975-04-22T22:58:12.746Z",
+            "age": 48
+        },
+        "registered": {
+            "date": "2013-11-12T15:08:41.821Z",
+            "age": 9
+        },
+        "phone": "(971) 236-4544",
+        "cell": "(369) 545-5743",
+        "id": {
+            "name": "SSN",
+            "value": "355-86-3289"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/30.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Flenn",
+            "last": "Willis"
+        },
+        "location": {
+            "street": {
+            "number": 6101,
+            "name": "Adams St"
+            },
+            "city": "Elgin",
+            "state": "New Hampshire",
+            "country": "United States",
+            "postcode": 49747,
+            "coordinates": {
+            "latitude": "-9.3227",
+            "longitude": "-9.3406"
+            },
+            "timezone": {
+            "offset": "0:00",
+            "description": "Western Europe Time, London, Lisbon, Casablanca"
+            }
+        },
+        "email": "flenn.willis@example.com",
+        "login": {
+            "uuid": "39f7788b-7559-49da-93de-a55f7904974b",
+            "username": "purpleelephant966",
+            "password": "jayson",
+            "salt": "rUvKtvwP",
+            "md5": "9261d0dfef1850772dffb5d2c19165e8",
+            "sha1": "847e9b9de5751ee722e55e483583c5b5c1678948",
+            "sha256": "b95d1ff90c57d5e76a24fe9fd011620138f677b5111d6f029a70643249aee1f9"
+        },
+        "dob": {
+            "date": "1955-04-08T16:00:41.548Z",
+            "age": 68
+        },
+        "registered": {
+            "date": "2013-04-10T18:12:44.995Z",
+            "age": 10
+        },
+        "phone": "(796) 731-9722",
+        "cell": "(455) 882-8021",
+        "id": {
+            "name": "SSN",
+            "value": "622-39-8454"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/58.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Don",
+            "last": "Burton"
+        },
+        "location": {
+            "street": {
+            "number": 3648,
+            "name": "Adams St"
+            },
+            "city": "Surrey",
+            "state": "Minnesota",
+            "country": "United States",
+            "postcode": 16996,
+            "coordinates": {
+            "latitude": "-27.7122",
+            "longitude": "33.5921"
+            },
+            "timezone": {
+            "offset": "+7:00",
+            "description": "Bangkok, Hanoi, Jakarta"
+            }
+        },
+        "email": "don.burton@example.com",
+        "login": {
+            "uuid": "555a7a4f-289b-4e9b-a2fc-43488de4d031",
+            "username": "yellowzebra664",
+            "password": "chestnut",
+            "salt": "50vTz81K",
+            "md5": "c4e54ac92df5a515a200e340b0cb98eb",
+            "sha1": "3aeb7bb859da36af2437bfe1d5b997c62531bebc",
+            "sha256": "4d39f69af3cfff5323da4e04ea1c3d92090ff2e90203482b30c6dafde8f86674"
+        },
+        "dob": {
+            "date": "1990-06-03T04:45:39.383Z",
+            "age": 33
+        },
+        "registered": {
+            "date": "2016-06-16T12:14:35.584Z",
+            "age": 7
+        },
+        "phone": "(746) 416-2478",
+        "cell": "(304) 340-0158",
+        "id": {
+            "name": "SSN",
+            "value": "097-65-6794"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/19.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Alfredo",
+            "last": "Ortiz"
+        },
+        "location": {
+            "street": {
+            "number": 2079,
+            "name": "Marsh Ln"
+            },
+            "city": "Kent",
+            "state": "Texas",
+            "country": "United States",
+            "postcode": 10555,
+            "coordinates": {
+            "latitude": "29.7238",
+            "longitude": "-81.6008"
+            },
+            "timezone": {
+            "offset": "+2:00",
+            "description": "Kaliningrad, South Africa"
+            }
+        },
+        "email": "alfredo.ortiz@example.com",
+        "login": {
+            "uuid": "45fd6973-541d-450e-b1ef-5b6fd93ffacb",
+            "username": "orangesnake145",
+            "password": "lamont",
+            "salt": "B9aomGLE",
+            "md5": "55f1f745797ec974679b694a01b468df",
+            "sha1": "6aa58a10f6a86b0550b38e907f607ff9ea17a7a6",
+            "sha256": "2d7fda11204045ac98bd47694f55a3397fe62390a3ddeaff935252883f63b3be"
+        },
+        "dob": {
+            "date": "1967-01-15T07:23:23.593Z",
+            "age": 56
+        },
+        "registered": {
+            "date": "2019-10-29T06:54:12.993Z",
+            "age": 3
+        },
+        "phone": "(592) 850-7161",
+        "cell": "(856) 811-1213",
+        "id": {
+            "name": "SSN",
+            "value": "493-45-3374"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/20.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "female",
+        "name": {
+            "title": "Ms",
+            "first": "Gail",
+            "last": "White"
+        },
+        "location": {
+            "street": {
+            "number": 3324,
+            "name": "Depaul Dr"
+            },
+            "city": "Torrance",
+            "state": "Indiana",
+            "country": "United States",
+            "postcode": 21538,
+            "coordinates": {
+            "latitude": "-55.1986",
+            "longitude": "85.6049"
+            },
+            "timezone": {
+            "offset": "+9:00",
+            "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+            }
+        },
+        "email": "gail.white@example.com",
+        "login": {
+            "uuid": "7952b37c-c207-4271-928e-0fc99acf7670",
+            "username": "reddog320",
+            "password": "infiniti",
+            "salt": "LN9tBf4j",
+            "md5": "c21a35951dddf2c1584ac2422d1108ea",
+            "sha1": "6c0e815b478eb20b889316767491dec234097c1b",
+            "sha256": "4067b59c03ee692e698c4977866bb6b95985b54ca5baf26ad71ece9c1df91833"
+        },
+        "dob": {
+            "date": "1988-09-09T01:32:54.447Z",
+            "age": 34
+        },
+        "registered": {
+            "date": "2003-10-28T07:26:52.475Z",
+            "age": 19
+        },
+        "phone": "(835) 674-9822",
+        "cell": "(776) 819-1457",
+        "id": {
+            "name": "SSN",
+            "value": "790-32-8881"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/84.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "female",
+        "name": {
+            "title": "Ms",
+            "first": "Holly",
+            "last": "Morales"
+        },
+        "location": {
+            "street": {
+            "number": 9084,
+            "name": "Stevens Creek Blvd"
+            },
+            "city": "Flint",
+            "state": "North Dakota",
+            "country": "United States",
+            "postcode": 63469,
+            "coordinates": {
+            "latitude": "29.3520",
+            "longitude": "1.0724"
+            },
+            "timezone": {
+            "offset": "-8:00",
+            "description": "Pacific Time (US & Canada)"
+            }
+        },
+        "email": "holly.morales@example.com",
+        "login": {
+            "uuid": "377d06f0-3389-4788-906d-36e4d80b1a1c",
+            "username": "smallpanda425",
+            "password": "youknow",
+            "salt": "4asoMqOQ",
+            "md5": "481f3240e2dfb981fc02e9002153a018",
+            "sha1": "754f1f42821097b68633e267242cd930eee08d30",
+            "sha256": "708e9de42cb73eafb9a1851c9bf379e2cf3ce5a942d5d8dc831e94c6361d3e7c"
+        },
+        "dob": {
+            "date": "1982-04-14T09:23:30.909Z",
+            "age": 41
+        },
+        "registered": {
+            "date": "2021-03-07T05:51:09.195Z",
+            "age": 2
+        },
+        "phone": "(215) 919-6312",
+        "cell": "(331) 725-9071",
+        "id": {
+            "name": "SSN",
+            "value": "655-31-6983"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/56.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Soham",
+            "last": "Romero"
+        },
+        "location": {
+            "street": {
+            "number": 765,
+            "name": "E Pecan St"
+            },
+            "city": "Richmond",
+            "state": "Missouri",
+            "country": "United States",
+            "postcode": 88418,
+            "coordinates": {
+            "latitude": "15.4453",
+            "longitude": "66.5552"
+            },
+            "timezone": {
+            "offset": "+3:00",
+            "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+            }
+        },
+        "email": "soham.romero@example.com",
+        "login": {
+            "uuid": "d3134257-f679-464b-bfa5-fde52e429af5",
+            "username": "lazykoala536",
+            "password": "aztnm",
+            "salt": "wdUMr10s",
+            "md5": "0b77287a0546482d9da283c4b6018487",
+            "sha1": "e04aeef2671ee9a9a81174c26f15cd8d2971d4e3",
+            "sha256": "82ddbc386297c0c434d88e1731c7c3b82423f3a0ca86d87941bab41617310253"
+        },
+        "dob": {
+            "date": "1949-11-12T02:48:32.289Z",
+            "age": 73
+        },
+        "registered": {
+            "date": "2010-08-01T00:10:09.739Z",
+            "age": 13
+        },
+        "phone": "(302) 662-4203",
+        "cell": "(335) 769-8483",
+        "id": {
+            "name": "SSN",
+            "value": "373-90-1983"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/90.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Gordon",
+            "last": "Davidson"
+        },
+        "location": {
+            "street": {
+            "number": 6008,
+            "name": "E North St"
+            },
+            "city": "Wilmington",
+            "state": "Texas",
+            "country": "United States",
+            "postcode": 81811,
+            "coordinates": {
+            "latitude": "-8.9539",
+            "longitude": "-146.5875"
+            },
+            "timezone": {
+            "offset": "+3:30",
+            "description": "Tehran"
+            }
+        },
+        "email": "gordon.davidson@example.com",
+        "login": {
+            "uuid": "e27a23c1-dd59-49b6-bd44-abac2f278bcf",
+            "username": "silverleopard484",
+            "password": "sanity72",
+            "salt": "xr5yPWUV",
+            "md5": "d4e61ee5ef453a1a83cb1589561512bf",
+            "sha1": "1e9aefee8dcedc72ab9f015375609baf6b9186b0",
+            "sha256": "c2fe1b566a17a49e8f3c25ad431f9ba370b394888f82c3bec9712c7b701dfa74"
+        },
+        "dob": {
+            "date": "1979-10-08T19:31:31.509Z",
+            "age": 43
+        },
+        "registered": {
+            "date": "2017-03-30T17:05:26.795Z",
+            "age": 6
+        },
+        "phone": "(290) 909-2306",
+        "cell": "(409) 515-1553",
+        "id": {
+            "name": "SSN",
+            "value": "667-72-8317"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/1.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Walter",
+            "last": "Miller"
+        },
+        "location": {
+            "street": {
+            "number": 192,
+            "name": "Saddle Dr"
+            },
+            "city": "Cedar Rapids",
+            "state": "Maryland",
+            "country": "United States",
+            "postcode": 14660,
+            "coordinates": {
+            "latitude": "-75.1331",
+            "longitude": "-56.8540"
+            },
+            "timezone": {
+            "offset": "-7:00",
+            "description": "Mountain Time (US & Canada)"
+            }
+        },
+        "email": "walter.miller@example.com",
+        "login": {
+            "uuid": "3eed20d6-9b2e-4c4a-9e04-394aafcb5af9",
+            "username": "blackbird666",
+            "password": "webmaster",
+            "salt": "IOTgK9dt",
+            "md5": "42b88bb85958d72b30b71d72e4335625",
+            "sha1": "793d343abe7e3361394972faed284e959647dd5a",
+            "sha256": "3bce2e91a6e2fadfb4250f377e5945188ee94f30fa47c9f0f5affc53ecef0815"
+        },
+        "dob": {
+            "date": "2000-05-09T21:53:59.512Z",
+            "age": 23
+        },
+        "registered": {
+            "date": "2020-07-08T14:40:47.942Z",
+            "age": 3
+        },
+        "phone": "(738) 876-5927",
+        "cell": "(410) 365-7103",
+        "id": {
+            "name": "SSN",
+            "value": "866-89-2515"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/46.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Christopher",
+            "last": "Moreno"
+        },
+        "location": {
+            "street": {
+            "number": 3898,
+            "name": "Daisy Dr"
+            },
+            "city": "Grand Prairie",
+            "state": "Louisiana",
+            "country": "United States",
+            "postcode": 51298,
+            "coordinates": {
+            "latitude": "-71.2437",
+            "longitude": "-113.9048"
+            },
+            "timezone": {
+            "offset": "+4:00",
+            "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+            }
+        },
+        "email": "christopher.moreno@example.com",
+        "login": {
+            "uuid": "8f2ea624-352b-439f-9c2b-8962afd5a3ec",
+            "username": "blackgorilla348",
+            "password": "samiam",
+            "salt": "MFERblnX",
+            "md5": "8363f4888b85f65e22fff82171f44e7a",
+            "sha1": "eeb9f54ce5e4fe11d7d7264a751ada8535148daf",
+            "sha256": "a06714bcadc5959c214076ea4539ccd300caf6d73b2bc897c7920fa6f33ac3fe"
+        },
+        "dob": {
+            "date": "1980-11-01T05:58:15.901Z",
+            "age": 42
+        },
+        "registered": {
+            "date": "2004-06-22T03:53:12.314Z",
+            "age": 19
+        },
+        "phone": "(802) 948-1272",
+        "cell": "(389) 280-0584",
+        "id": {
+            "name": "SSN",
+            "value": "185-23-9851"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/31.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Ivan",
+            "last": "Kelley"
+        },
+        "location": {
+            "street": {
+            "number": 74,
+            "name": "Wycliff Ave"
+            },
+            "city": "The Colony",
+            "state": "California",
+            "country": "United States",
+            "postcode": 67459,
+            "coordinates": {
+            "latitude": "7.2778",
+            "longitude": "-152.4821"
+            },
+            "timezone": {
+            "offset": "-9:00",
+            "description": "Alaska"
+            }
+        },
+        "email": "ivan.kelley@example.com",
+        "login": {
+            "uuid": "3b7d50ba-4df4-4187-b16e-2148a3630535",
+            "username": "orangedog414",
+            "password": "911911",
+            "salt": "ZL3I0RO5",
+            "md5": "9129a445053da6f07d5e9319539d7036",
+            "sha1": "a8431d2a35fa64ca8e42e7ee68abb51140028c3b",
+            "sha256": "9f995af250d22d4fee1577ce829fa4d949b5f3395c52bc5f91c4b91962760995"
+        },
+        "dob": {
+            "date": "1999-09-20T03:46:18.144Z",
+            "age": 23
+        },
+        "registered": {
+            "date": "2010-06-05T08:09:32.362Z",
+            "age": 13
+        },
+        "phone": "(590) 983-7688",
+        "cell": "(636) 264-6826",
+        "id": {
+            "name": "SSN",
+            "value": "500-27-5957"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/37.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+        },
+        "nat": "US"
+        },
+        {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Clyde",
+            "last": "Williamson"
+        },
+        "location": {
+            "street": {
+            "number": 3337,
+            "name": "N Stelling Rd"
+            },
+            "city": "Arlington",
+            "state": "South Dakota",
+            "country": "United States",
+            "postcode": 54662,
+            "coordinates": {
+            "latitude": "12.4171",
+            "longitude": "50.3632"
+            },
+            "timezone": {
+            "offset": "-7:00",
+            "description": "Mountain Time (US & Canada)"
+            }
+        },
+        "email": "clyde.williamson@example.com",
+        "login": {
+            "uuid": "bfd6d54b-5e02-4ed4-a563-993fdc54e6ac",
+            "username": "lazyswan888",
+            "password": "hassan",
+            "salt": "yfuSIs5E",
+            "md5": "55a9d22b96c23a51c8366edffdbd450f",
+            "sha1": "ebc6dac2fa12cbfe00e595e01b4e057e7857e028",
+            "sha256": "4acc6aae564c787279cc8ff79a222125ee98fbbb8e82d53d6db7fac61a2d6502"
+        },
+        "dob": {
+            "date": "1977-12-16T14:31:31.456Z",
+            "age": 45
+        },
+        "registered": {
+            "date": "2010-12-13T06:29:19.433Z",
+            "age": 12
+        },
+        "phone": "(517) 532-1140",
+        "cell": "(448) 959-0651",
+        "id": {
+            "name": "SSN",
+            "value": "019-28-9718"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/67.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+        },
+        "nat": "US"
+        }
+    ],
+    "info": {
+        "seed": "d838f7b63c49b3aa",
+        "results": 12,
+        "page": 1,
+        "version": "1.4"
+    }
+}
