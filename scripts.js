@@ -60,7 +60,7 @@ function displayPhotos(json){
     for(let photo of json){
         // TO DO
         output += `
-            <img src="${"add image url here"} alt="" width="${"add image width here"}" height="${"add image height here"}">
+            <img src="${"add image url here"}" alt="" width="${"add image width here"}" height="${"add image height here"}">
         `;
 
     }
@@ -71,6 +71,7 @@ function displayPhotos(json){
 // the function that will display the data from our JSON file of users to the console
 function getUsers(data){
     console.log('This is our user data from the file: ', data);
+    // TO DO - ADD USER INFO TO PAGE
 }
 
 // call the function to display the cat photos on page load
